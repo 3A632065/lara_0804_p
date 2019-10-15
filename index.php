@@ -87,7 +87,6 @@ try {
             <div class="col-lg-12">
                 <h1 class="page-header">文章清單
                     <small><?php echo Carbon::now()->toDateString(); ?></small>
-                    <small>{今日日期}</small>
                 </h1>
             </div>
         </div>
